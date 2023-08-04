@@ -1,0 +1,11 @@
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.csproj.AssemblyReference.cache
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.csproj.SuggestedBindingRedirects.cache
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.csproj.CoreCompileInputs.cache
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\bin\Debug\4-8-23-Assign 23.exe.config
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\bin\Debug\4-8-23-Assign 23.exe
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\bin\Debug\4-8-23-Assign 23.pdb
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\bin\Debug\MySharedLibrary.dll
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\bin\Debug\MySharedLibrary.pdb
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.csproj.CopyComplete
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.exe
+E:\hd\4-8-23-Assign 23\4-8-23-Assign 23\obj\Debug\4-8-23-Assign 23.pdb
